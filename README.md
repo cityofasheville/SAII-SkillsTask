@@ -19,7 +19,7 @@ Keep it simple. We are not looking for a finished product, but instead think "mi
 * You may use any resources or tools that you like.
 * Feel free to reuse/borrow code (like you would in the real world!)
 * However, the actual work should be done by you.
-* You can ask us questions - We prefer you use this repo's issues as the communications to do it. (Email is also fine)
+* You can ask us questions - we prefer you use this repo's issues. (Email is also fine)
 
 ##Submissions
 

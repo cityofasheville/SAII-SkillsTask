@@ -9,8 +9,7 @@ Please note that this problem and associated data are real. The long range goal 
 
 ##Data 
 
-* Help Desk request data is stored in a .csv file and can be found here:  
-* Associated metadata can be found here:
+* Help Desk request data is stored in a .csv file and can be found here along with descriptive metadata: https://drive.google.com/folderview?id=0B-uuat4PtUk1ZlpZcFhlM2lXSnc&usp=sharing  
 
 ##Rules
 
